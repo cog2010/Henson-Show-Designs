@@ -3,9 +3,7 @@ body{
   background-color:#bbbbbb;
   font-family: 'Poppins', sans-serif;
 }
-img{
-   width: 100%;
-}
+
 a:link, a:visited{
   color:black;
   text-align: left;
